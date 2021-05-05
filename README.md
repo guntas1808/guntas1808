@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Data Structures and Algorithms
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Full Stack Web Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/guntas1808/)
 - 📜 [My Resume](https://github.com/guntas1808/Resume)
 
