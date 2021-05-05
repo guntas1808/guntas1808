@@ -4,7 +4,7 @@ I am a pre-final year Computer Science undergraduate at Indian Institute of Tech
 
 Here's a quote that i really like:
 
-> **Aim for the moon. Even if you miss, you will end up in the stars\
+> **Aim for the moon. Even if you miss, you will end up in the stars.\
 > ~ W. Clement Stone**
 
 <!--
