@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I am a pre-final year Computer Science undergraduate at Indian Institute of Technology Kanpur. I like exploring new domains and topics in Computer Science. I code mostly in C++ but I am also familiar with python, JavaScript and a bit of Java.
+I am a final year Computer Science undergraduate at Indian Institute of Technology Kanpur. I like exploring new domains and topics in Computer Science. I code mostly in C++ but I am also familiar with python, JavaScript and a bit of Java.
 
 Here's a quote that i really like:
 
